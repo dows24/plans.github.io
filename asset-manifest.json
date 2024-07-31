@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/plans.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/plans.github.io/static/js/main.7d2c4155.js",
+    "main.js": "/plans.github.io/static/js/main.5d2a33d6.js",
     "static/js/453.68dae9d9.chunk.js": "/plans.github.io/static/js/453.68dae9d9.chunk.js",
     "index.html": "/plans.github.io/index.html",
     "main.e6c13ad2.css.map": "/plans.github.io/static/css/main.e6c13ad2.css.map",
-    "main.7d2c4155.js.map": "/plans.github.io/static/js/main.7d2c4155.js.map",
+    "main.5d2a33d6.js.map": "/plans.github.io/static/js/main.5d2a33d6.js.map",
     "453.68dae9d9.chunk.js.map": "/plans.github.io/static/js/453.68dae9d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7d2c4155.js"
+    "static/js/main.5d2a33d6.js"
   ]
 }
